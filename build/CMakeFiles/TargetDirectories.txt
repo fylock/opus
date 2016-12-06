@@ -1,0 +1,7 @@
+/Users/danielniemeyer/Developer/Open Source/opus/build/CMakeFiles/ALL_BUILD.dir
+/Users/danielniemeyer/Developer/Open Source/opus/build/CMakeFiles/ZERO_CHECK.dir
+/Users/danielniemeyer/Developer/Open Source/opus/build/celt/CMakeFiles/celt.dir
+/Users/danielniemeyer/Developer/Open Source/opus/build/silk/CMakeFiles/silk_common.dir
+/Users/danielniemeyer/Developer/Open Source/opus/build/silk/fixed/CMakeFiles/silk_fixed.dir
+/Users/danielniemeyer/Developer/Open Source/opus/build/silk/float/CMakeFiles/silk_float.dir
+/Users/danielniemeyer/Developer/Open Source/opus/build/src/CMakeFiles/opus.dir
